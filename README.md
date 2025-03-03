@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teja-yarragunta
-- 👀 I’m interested in Web Development, Machine Learning.
+- 👀 I’m interested in Web Development and Machine Learning.
 - 🌱 I’m currently learning React and NodeJs.
 - 📫 How to reach me: mail.yarragunta.teja@gmail.com 
 - 😄 Pronouns: he/him
