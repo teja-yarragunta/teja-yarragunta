@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teja-yarragunta
 - 👀 I’m interested in Web Development and Machine Learning.
 - 🌱 I’m currently learning MERN stack.
-- 📫 How to reach me?: mail.yarragunta.teja@gmail.com 
+- 📫 How to reach me? mail.yarragunta.teja@gmail.com 
 - ⚡ Fun fact: OnePiece is my favourite anime.
 <!---
 teja-yarragunta/teja-yarragunta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
